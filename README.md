@@ -63,10 +63,8 @@ endmodule
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 ![445903778-57ba061b-04d0-4675-a49d-aa5b825845c0](https://github.com/user-attachments/assets/c76f49a9-dd2c-4af0-90bb-ac85ce8c9a6e)
 
-##RESULTS :
-Thus implementing 4 Bit Ripple Counter using Verilog and validating their functionality using their functional tables is done successfully.
 
 
-**TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
 **RESULTS**
+Thus implementing 4 Bit Ripple Counter using Verilog and validating their functionality using their functional tables is done successfully.
